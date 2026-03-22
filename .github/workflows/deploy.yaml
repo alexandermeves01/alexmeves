@@ -22,4 +22,4 @@ jobs:
             cd ~/alexmeves
             git pull origin main
             npm install --production
-            pm2 restart my-app
+            pm2 restart alexmeves
